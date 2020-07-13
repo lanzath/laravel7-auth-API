@@ -7,6 +7,13 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+## Hello there!
+**This repository has a RESTful API CRUD to create and Authenticate users**
+
+I've used [Passport](https://github.com/laravel/passport) to do the auth function.
+Using clean code and Fat Model, Thin Controller practices I created a Trait to Handle Login methods.
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
